@@ -5,7 +5,6 @@
 
 </head>
 <body>
-<h1>Hello Kail!</h1>
-<h2>Coding is great!</h2>
+<h1>Hello Kail! Learning program is great!</h1>
 </body>
 </html>
